@@ -4,4 +4,4 @@
 ## Input data List
 ### Nilai Akhir ditentukan/menentukan nilai akhir
 
-![img]screenshoot/ss1.png
+![Gambar 1](screenshoot/ss1.png)
